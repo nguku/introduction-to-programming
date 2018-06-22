@@ -1,4 +1,3 @@
-//fpc 3.0.0
 
 program Makechange(input, output);
 
