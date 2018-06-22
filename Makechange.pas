@@ -25,11 +25,11 @@ Begin
     
     Writeln('Amount of purchase = KSh ', Purchase:6:2);
     writeln('Balance = Ksh', Change: 2:2);
-    writeln('change { ');
+    writeln('change ... ');
     Writeln(Fivehundred:2, ' five hundred notes');
     writeln(Twohundred:2, ' two hundred notes');
     writeln(Onehundred:2, ' one hundred notes');
     writeln(Fifty:2, ' fifty shillings notes');
     writeln(Shillings:2, ' shillings');
-    writeln(' { ');
+    Readln( );
 End.
